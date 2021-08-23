@@ -1,5 +1,5 @@
 {
-  "name": "c",
+  "name": "@theowenyoung/package-example-c",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "a":"^1.0.0",
-    "b":"^1.0.0"
+    "a": "^1.0.0",
+    "b": "^1.0.0"
   },
   "keywords": [],
   "author": "Owen Young",
