@@ -1,0 +1,21 @@
+{
+  "name": "monorepo",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Owen Young",
+  "license": "ISC",
+  "workspaces": [
+    "packages/a",
+    "packages/b",
+    "packages/c"
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.16.0"
+  }
+}
