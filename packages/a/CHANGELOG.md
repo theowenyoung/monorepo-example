@@ -1,6 +1,8 @@
 # @theowenyoung/package-example-a
 
-## 0.0.1
+## 1.0.1
+
 ### Patch Changes
 
-- Init
+- Summary for a
+
