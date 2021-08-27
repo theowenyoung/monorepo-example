@@ -1,5 +1,11 @@
 # @theowenyoung/package-example-b
 
+## 1.1.1
+
+### Patch Changes
+
+- [`b4354d2`](https://github.com/theowenyoung/monorepo-example/commit/b4354d28985d8088fd31153cbaaacae1d16e8fa4) Thanks [@theowenyoung](https://github.com/theowenyoung)! - test
+
 ## 1.1.0
 
 ### Minor Changes
